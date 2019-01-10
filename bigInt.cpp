@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+
 class BigInt // Class representing large numbers (somewhat unoptimized implementation)
 {
     static const int base = 1000;
